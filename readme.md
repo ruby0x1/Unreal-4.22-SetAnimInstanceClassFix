@@ -15,10 +15,10 @@ example:
 
 # use
 
-This replaces "Set Anim Instance Class" (Target is Skeletal Mesh Component) node.
-It's a temporary fix till the real one lands in Unreal itself.
+- This replaces "Set Anim Instance Class" (Target is Skeletal Mesh Component) node.
+  It's a temporary fix till the real one lands in Unreal itself.
 
-The node is under "4.22 Workaround | Anim BP" as "Set Anim Instance Class Fix":
+- The node is under "4.22 Workaround | Anim BP" as "Set Anim Instance Class Fix":
 
 ![](https://i.imgur.com/IgIiDR5.png)
 
